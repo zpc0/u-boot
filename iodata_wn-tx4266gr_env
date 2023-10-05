@@ -1,0 +1,4 @@
+bootcmd=bootmenu
+bootmenu_default=0
+bootmenu_delay=10
+bootmenu_title=I-O DATA WN-TX4266GR [microSD card]
