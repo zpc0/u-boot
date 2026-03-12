@@ -1,0 +1,3 @@
+bootcmd=ubi part ubi; ubi read ${loadaddr} fit; bootm ${loadaddr}
+loadaddr=0x46000000
+
